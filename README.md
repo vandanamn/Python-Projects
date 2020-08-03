@@ -1,1 +1,1 @@
-# Python-Projects
+# JPG to PNG Converter in Python
